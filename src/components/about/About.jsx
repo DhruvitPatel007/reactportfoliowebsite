@@ -4,7 +4,7 @@ import ME from '../../Assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
-
+ 
 const about = () => {
   return (
     <section id='about'>
